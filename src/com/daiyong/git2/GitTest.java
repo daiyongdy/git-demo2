@@ -17,6 +17,6 @@ public class GitTest {
 	 * @author 代勇<yong.dai@zhaopin.com.cn>
 	 */
 	private void mian() {
-		
+		System.out.println("123");
 	}
 }
